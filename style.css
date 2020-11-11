@@ -1,0 +1,12 @@
+body {
+    color: black;
+    background-color: burlywood;
+}
+
+footer{
+    padding: 10px;
+    width: auto;
+    text-align: right;
+    background-color: white;
+    color: black;
+}
